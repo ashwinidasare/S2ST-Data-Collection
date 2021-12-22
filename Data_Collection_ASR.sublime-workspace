@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contac",
+				"contactCell5"
+			],
+			[
+				"conta",
+				"contactCell4"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"sver",
+				"serverData"
+			],
+			[
+				"get",
+				"getUser"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"wavesur",
+				"wavesurfer"
+			],
+			[
+				"rec",
+				"recorded"
+			],
+			[
+				"audio",
+				"audio"
+			],
+			[
+				"Rec",
+				"recording"
+			],
+			[
+				"Di",
+				"Displays"
+			],
+			[
+				"sess",
+				"sessionID"
+			],
+			[
+				"ayn",
+				"async"
+			],
+			[
+				"senten",
+				"sentence"
+			],
+			[
+				"j",
+				"JSON"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"Wave",
+				"WaveSurfer"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"wave",
+				"wavesurfer"
+			],
+			[
+				"dis",
+				"displayWaveform"
+			],
+			[
+				"media",
+				"mediaRecorder"
+			],
+			[
+				"demo",
+				"demoDiv"
+			],
+			[
+				"con",
+				"continuous"
+			],
+			[
+				"de",
+				"demo"
+			],
+			[
+				"acc",
+				"accessCamera1"
+			],
+			[
+				"wind",
+				"windowSelector"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"main",
+				"mainDiv"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"start",
+				"start_position"
+			],
+			[
+				"stop",
+				"stopRecord"
+			],
+			[
+				"server",
+				"serverData"
+			],
+			[
+				"g",
+				"getUser"
+			],
+			[
+				"st",
+				"stNum"
+			],
+			[
+				"sente",
+				"sentenceID"
+			],
+			[
+				"sec",
+				"secID"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"for",
+				"form-data"
+			],
+			[
+				"videoStrea",
+				"videoStreamF"
+			],
+			[
+				"video",
+				"videoURL"
+			],
+			[
+				"vide",
+				"videoStream"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"aud",
+				"audio"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"re",
+				"recordings"
+			],
+			[
+				"date",
+				"dateTime"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ser",
+				"serverData"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"cli",
+				"clientData"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"myFUn",
+				"myFunction2"
+			],
+			[
+				"myFun",
+				"myFunction1"
+			],
+			[
+				"myFunctio",
+				"myFunction2"
+			],
+			[
+				"resp",
+				"responseText"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"dsi",
+				"displayText"
+			],
+			[
+				"record",
+				"recordCount"
+			],
+			[
+				"ons",
+				"onreadystatechange"
+			],
+			[
+				"displa",
+				"displayText"
+			],
+			[
+				"on",
+				"onreadystatechange"
+			],
+			[
+				"my",
+				"myObjStr"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"lar",
+				"larger"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"SuC",
+				"successfully"
+			],
+			[
+				"pop",
+				"popup"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"sne",
+				"sentence"
+			],
+			[
+				"ele",
+				"eleCount"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"new",
+				"newLabel"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"rig",
+				"Right"
+			],
+			[
+				"is",
+				"isKannada"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"BLO",
+				"blob"
+			],
+			[
+				"Start",
+				"startVid"
+			],
+			[
+				"reco",
+				"recordData"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"succes",
+				"successfully"
+			],
+			[
+				"s",
+				"scount"
+			],
+			[
+				"suces",
+				"successfully"
+			],
+			[
+				"Sa",
+				"Santali"
+			],
+			[
+				"D",
+				"Diu"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"form",
+				"form\tAttr"
+			],
+			[
+				"fo",
+				"form\tAttr"
+			],
+			[
+				"tabl",
+				"table-footer-group\tdisplay"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"disla",
+				"displayVideo"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"webm",
+				"webm"
+			],
+			[
+				"downl",
+				"downloadLink"
+			],
+			[
+				"send",
+				"sendData"
+			],
+			[
+				"recor",
+				"recordCount"
+			],
+			[
+				"la",
+				"labArr"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"lab",
+				"labArr"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"v",
+				"video"
+			],
+			[
+				"vid",
+				"vidSave"
+			],
+			[
+				"star",
+				"startVid"
+			],
+			[
+				"medi",
+				"mediaRecorder"
+			],
+			[
+				"med",
+				"mediaStreamObj"
+			],
+			[
+				"vido",
+				"videoStream"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"labo",
+				"Labours"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 13246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/pages/dataCollection.html",
+			"settings":
+			{
+				"buffer_size": 28708,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Data_Collection_ASR",
+		"/D/Data_Collection_ASR/public",
+		"/D/Data_Collection_ASR/public/css",
+		"/D/Data_Collection_ASR/public/pages",
+		"/D/Data_Collection_ASR/public/py",
+		"/D/Data_Collection_ASR/sslcert"
+	],
+	"file_history":
+	[
+		"/D/Data_Collection_ASR/public/pages/Home.html",
+		"/D/Data_Collection_ASR/public/pages/aboutus.html",
+		"/D/Data_Collection_ASR/public/pages/contactus.html",
+		"/D/Data_Collection_ASR/public/css/contactTable.css",
+		"/D/Data_Collection_ASR/public/pages/index.html",
+		"/D/Data_Collection_ASR/public/css/consent.css",
+		"/D/Data_Collection_ASR/public/pages/dataCollection.html",
+		"/D/Data_Collection_ASR/public/pages/consent.html",
+		"/D/Data_Collection_ASR/public/js/waveform.js",
+		"/D/Data_Collection_ASR/public/js/wavesurfer-microphone.js",
+		"/D/Data_Collection_ASR/public/css/index.css",
+		"/D/Data_Collection_ASR/public/js/stickyNav.js",
+		"/D/Data_Collection_ASR/public/pages/userDetails.html",
+		"/D/Data_Collection_ASR/public/js/jquery.js",
+		"/D/Data_Collection_ASR/public/js/wavesurfer-5.2.0.js",
+		"/D/Data_Collection_ASR/public/js/wavesurfer_timeline.js",
+		"/D/Data_Collection_ASR/public/js/wavesurfer(5.2.0).js",
+		"/D/Data_Collection_ASR/elements.js",
+		"/D/Data_Collection_ASR/public/js/jquery3.6.0.js",
+		"/D/Data_Collection_ASR/public/css/elements.js",
+		"/D/Data_Collection_ASR/public/css/dataCollection.css",
+		"/D/Data_Collection_ASR/public/js/my-worklet-processor.js",
+		"/D/Data_Collection_ASR/public/js/windowSelector.js",
+		"/D/Data_Collection_ASR/public/js/loop.js",
+		"/D/Data_Collection_ASR/app.js",
+		"/D/Data_Collection_ASR/public/js/getSentence.js",
+		"/D/Data_Collection_ASR/public/js/processor.js",
+		"/D/Data_Collection_ASR/public/css/userDetails.css",
+		"/D/Data_Collection_ASR/public/css/footer.css",
+		"/D/Data_Collection_ASR/public/js/audio.js",
+		"/D/Data_Collection_ASR/public/js/fontSize.js",
+		"/D/Data_Collection_ASR/package.json",
+		"/D/Data_Collection_ASR/public/js/dateTime.js",
+		"/D/Data_Collection_ASR/public/css/contactUs.css",
+		"/D/Data_Collection_ASR/public/pages/details.html",
+		"/D/Data_Collection_ASR/public/css/main.css",
+		"/D/Data_Collection_ASR/public/js/video.js",
+		"/D/Data_Collection_ASR/public/js/videoStream.js",
+		"/D/Data_Collection_ASR/public/js/database.js",
+		"/D/Data_Collection_ASR/public/js/sendVideo.js",
+		"/D/Data_Collection_ASR/public/js/cameraFun.js",
+		"/D/Data_Collection_ASR/public/js/backup.js",
+		"/D/Data_Collection/public/pages/dataCollection.html",
+		"/D/Data_Collection/app.js",
+		"/D/Data_Collection/public/js/cameraFun.js",
+		"/D/Data_Collection/public/js/video.js",
+		"/D/Data_Collection/public/pages/userDetails.html",
+		"/D/Data_Collection/public/js/videoStream.js",
+		"/D/Data_Collection/public/js/sendVideo.js",
+		"/D/Data_Collection/public/js/database.js",
+		"/D/Data_Collection/public/pages/Home.html",
+		"/D/Data_Collection/public/pages/contactus.html",
+		"/D/Data_Collection/public/pages/aboutus.html",
+		"/D/Data_Collection/public/pages/details.html",
+		"/D/Data_Collection/node_modules/dicer/node_modules/isarray/build/build.js",
+		"/D/Data_Collection/public/css/userDetails.css",
+		"/D/Data_Collection/public/pages/index.html",
+		"/D/Data_Collection/public/css/dataCollection.css",
+		"/D/Data_Collection/public/css/index.css",
+		"/D/Data_Collection/public/css/main.css",
+		"/D/Data_Collection/public/css/footer.css",
+		"/D/Data_Collection/public/css/carousel.css",
+		"/D/Data_Collection/public/css/style.css",
+		"/D/Data_Collection/.gitignore",
+		"/D/Data_Collection/public/js/main.js",
+		"/D/Data_Collection/public/pages/dataCollection_old.html",
+		"/D/Data_Collection/public/js/backup.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/LabourOrder.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/LabourOrderTable.js",
+		"/D/WCE Maintainance Management System - Master/server/material/validate.js",
+		"/D/WCE Maintainance Management System - Master/server/labour/validate.js",
+		"/D/WCE Maintainance Management System - Master/server/labour/model.js",
+		"/D/WCE Maintainance Management System - Master/server/material/index.js",
+		"/D/WCE Maintainance Management System - Master/server/labour/index.js",
+		"/D/WCE Maintainance Management System - Master/server/verifyAuthToken.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/OrderedMaterial.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/FormB2.js",
+		"/D/WCE Maintainance Management System - Master/server/material/model.js",
+		"/D/WCE Maintainance Management System - Master/server/index.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/OrderedMaterialTable.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/CommitteeSelect.js",
+		"/D/WCE Maintainance Management System - Master/client/src/complaintViews/CommiteeView.js",
+		"/D/WCE Maintainance Management System - Master/server/login/model.js",
+		"/D/WCE Maintainance Management System - Master/server/utils/userRole.js",
+		"/D/WCE Maintainance Management System - Master/server/complaint/model.js",
+		"/D/WCE Maintainance Management System - Master/server/Schema/Completion.js",
+		"/D/WCE Maintainance Management System - Master/server/Schema/Approval.js",
+		"/D/WCE Maintainance Management System - Master/README.md",
+		"/D/WCE Maintainance Management System - Master/server/store/model.js",
+		"/D/WCE Maintainance Management System - Master/server/complaint/index.js",
+		"/D/WCE Maintainance Management System - Master/server/complaint/validate.js",
+		"/D/WCE Maintainance Management System - Master/server/pdf/index.js",
+		"/D/WCE Maintainance Management System - Master/server/mail/index.js",
+		"/D/WCE Maintainance Management System - Master/server/store/validate.js",
+		"/D/WCE Maintainance Management System - Master/server/store/index.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/utils/LabourOrderValidator.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/utils/OrderedMaterialValidator.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/StoreMaterialTable.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/LabourOrder",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/StoreMaterial.js",
+		"/D/WCE Maintainance Management System - Master/client/src/store/components/MaterialForm.js",
+		"/D/WCE Maintainance Management System - Master/client/src/store/pages/Store.js",
+		"/D/WCE Maintainance Management System - Master/client/src/store/utils/MaterialFormValidator.js",
+		"/D/WCE Maintainance Management System - Master/client/src/Dashboards/CommitteeDashboard.js",
+		"/D/WCE Maintainance Management System - Master/client/src/Dashboards/Table.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/index.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/axiosInstance.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/FormValidator.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/GetWindowWidth.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/UserComplaintForm.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/utils/UserComplaintFormValidator.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/components/Confirmation.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/components/Loader.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/components/Notification.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/components/PageNotFound404.js",
+		"/D/WCE Maintainance Management System - Master/client/src/helpers/components/PopOver.js",
+		"/D/WCE Maintainance Management System - Master/client/src/forms/components/HodForm.js",
+		"/D/WCE Maintainance Management System - Master/client/src/store/components/MaterialTable.js",
+		"/D/WCE Maintainance Management System - Master/client/src/Dashboards/Report.js",
+		"/D/WCE Maintainance Management System - Master/client/src/Dashboards/index.js",
+		"/D/WCE Maintainance Management System - Master/client/src/Dashboards/DashboardHeader.js",
+		"/D/WCE Maintainance Management System - Master/client/.env",
+		"/D/WCE Maintainance Management System - Master/client/src/store/index.js",
+		"/C/xampp/htdocs/wic/styles/report.css",
+		"/C/xampp/htdocs/wic/reports.php",
+		"/C/xampp/htdocs/wic/requestForm.php",
+		"/C/xampp/htdocs/wic/styles/form.css",
+		"/C/xampp/htdocs/wic/adminDashboard.php"
+	],
+	"find":
+	{
+		"height": 48.8
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"audioCount",
+			"waveform",
+			"waveform\\",
+			"waveform",
+			"responsive",
+			"CPAudio",
+			"temp",
+			"count",
+			"uname",
+			"videoURL",
+			"display",
+			"videoStream",
+			"navbar",
+			"navbar\n",
+			"stNumber",
+			"eleCount",
+			"getSentence",
+			"getSentence\n",
+			"testing",
+			"section",
+			"sec",
+			"sec\n",
+			"getUser",
+			"stNumber",
+			"getsentence",
+			"getSentenceBtn",
+			"sec",
+			"uname",
+			"getUser",
+			"recordAudio",
+			"sentence",
+			"getUser",
+			"submit",
+			"waveform",
+			"showTimeline",
+			"show",
+			"showTimeline",
+			"play",
+			"showTimeline",
+			"showTimeline\n",
+			"init",
+			"timeline",
+			"waveform",
+			"mediaRecorder.state",
+			"mediaRecorder.state == 'recording'",
+			"pre",
+			"submit",
+			"demoCamera",
+			"uname",
+			"uname\n",
+			"un",
+			"stNumber",
+			"uname",
+			"getUser",
+			"getSentenceBtn",
+			"user",
+			"stNum",
+			"stNo",
+			"stNum",
+			"stNum\n",
+			"getSentenceBtn",
+			"stNum",
+			"getSentenceBtn",
+			"uname",
+			"get sentence",
+			"videoStreamF",
+			"waveform",
+			"waveform\n",
+			"navigator",
+			"section",
+			"un",
+			"wave",
+			"newVideo",
+			"navbar",
+			"getUser",
+			"un",
+			"videoStream",
+			"uname",
+			"submit",
+			"aName",
+			"myFunction1",
+			"aName",
+			"vName",
+			"demoStream",
+			"video",
+			"demoStream",
+			"srid",
+			"data",
+			"sentence",
+			"startVid",
+			"submit",
+			"recordAudio",
+			"submit",
+			"stNum",
+			"wav",
+			"\">\n",
+			"waveform",
+			"normal",
+			"p>",
+			"p",
+			"disable",
+			"demoStream",
+			"videoStream",
+			"dstop",
+			"startVid",
+			"fs",
+			"sf",
+			"displayVideo",
+			"displauyVideo",
+			"displauyVIdeo",
+			"navigator",
+			"navbar",
+			"inputCount",
+			"displayVideo",
+			"user",
+			"readText",
+			"inputCount",
+			"startVid",
+			"inc",
+			"form",
+			"videoURL",
+			"\t\t\t\t\n",
+			"stream"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11152,
+								11152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/pages/dataCollection.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27005,
+								27005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 22518.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Data_Collection_ASR.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
