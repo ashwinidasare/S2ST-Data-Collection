@@ -1,0 +1,76 @@
+.contactSection
+{
+	width: 80%;
+	align-content: center;
+	margin: auto;
+}
+
+.contactTable
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 100%;
+	font-family: Cambria;
+}
+
+.contactRow
+{
+	height: 25px;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+
+.contactHead1, .contactHead2, .contactHead3, .contactHead4, .contactHead5
+{
+	border: 1px solid black;
+  	border-collapse: collapse;
+  	background-color: rgba(200, 105, 220, 0.6);
+}
+
+.contactHead1
+{
+	width: 5%;
+}
+
+.contactHead2
+{
+	width: 20%;
+}
+
+.contactHead3
+{
+	width: 25%;
+}
+
+.contactHead4
+{
+	width: 30%;
+}
+.contactHead5
+{
+	width: 20%;
+}
+.contactCell1, .contactCell2, .contactCell3, .contactCell4, .contactCell5
+{
+	border: 1px solid black;
+ 	border-collapse: collapse;
+}
+
+.contactCell1
+{
+	text-align: center;
+}
+.contactCell2
+{
+	padding-left: 10px;	
+}
+.contactCell3
+{
+	padding-left: 10px;
+}
+.contactCell4
+{
+	padding-left: 10px;
+}

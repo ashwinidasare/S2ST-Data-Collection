@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    /* font-family: "IBM Plex Sans"; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.heading {
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    margin-bottom: 20px;
+}
+.bg {
+    background-color: rgba(249, 250, 251,1);
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background-color: #ffffff;
+    padding: 2rem 4rem;
+    border-radius: 0.375rem;
+    box-shadow: (0 1px 2px 0 rgba(0, 0, 0, 0.05));
+}
+/* Styling Elements inside Container */
+
+.card-input-heading {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.card-input-box {
+    background: #EAF4FF;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 4px 0px;
+}
+.form-input {
+    border: none;
+    outline: none;
+    font-size: 12px;
+    width: 85%;
+    margin: 1px;
+    padding: 3px;
+    padding-left: 4px;
+    background-color: transparent;
+}
+.card-input {
+    border: none;
+    outline: none;
+    font-size: 13px;
+    width: 85%;
+    margin: 2px 1px 5px 1px;
+    padding: 3px;
+    padding-left: 4px;
+    background-color: transparent;
+}
+.button-div {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.button-styling {
+    color: rgba(255, 255, 255,1);
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    padding: 0.25rem 0.5rem;
+    background-color: rgba(79, 70, 229,1);
+    border-color: transparent;
+    border-width: 1px;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+
+/*
+ *  Copyright (c) 2015 The WebRTC project authors. All Rights Reserved.
+ *
+ *  Use of this source code is governed by a BSD-style license
+ *  that can be found in the LICENSE file in the root of the source
+ *  tree.
+ */
+ button {
+    margin: 0 3px 10px 0;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: 99px;
+  }
+  
+  button:last-of-type {
+    margin: 0;
+  }
+  
+  p.borderBelow {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0;
+  }
+  
+  video {
+    vertical-align: top;
+    --width: 25vw;
+    width: var(--width);
+    height: calc(var(--width) * 0.5625);
+  }
+  
+  video:last-of-type {
+    margin: 0 0 20px 0;
+  }
+  
+  video#gumVideo {
+    margin: 0 20px 20px 0;
+  }

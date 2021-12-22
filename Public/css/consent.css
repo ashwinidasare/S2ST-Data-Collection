@@ -1,0 +1,46 @@
+.conTitle
+{
+	text-align: center;
+}
+
+.consentContainer
+{
+	display: table;
+	width: 100%;
+}
+.consentKA
+{
+	border: solid 1px;
+	background-color: white;
+	font-family: cambria;
+	font-size: 0.7em;
+	display: table-cell; 
+}
+
+.consentEN
+{
+	border: solid 1px;
+	background-color: white;
+	font-size: 1em;
+	font-weight: bold;
+	display: table-cell;
+	width: 50%;
+}
+
+.consentPreAudio
+{
+	width: 100%;
+}
+
+audio
+{
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+}
+
+.videoStream
+{
+	height: 240px;
+	width: 320px;
+}

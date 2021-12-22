@@ -1,0 +1,273 @@
+.winSection
+{
+	text-align: center;
+}
+
+.recLabel
+{
+	font-size: 1em;
+	font-family: cambria;
+}
+
+.recWindow
+{
+	height: 25px;
+	width: auto;
+}
+
+.recordSection
+{
+	height: auto;
+	width: 100%;
+}
+.inputCount
+{
+	text-align: center;
+	height: auto;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.libAudio
+{
+	width: 100%;
+}
+
+.readText
+{
+	width: 100%;
+	height: auto;
+	//min-height: 160px;
+	float: left;
+	//margin-left: 1%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  	transition: 0.3s;
+  	border-radius: 5px;
+  	background-color: black;
+
+  	//Gradient 1
+  	//background: #355C7D;  /* fallback for old browsers */
+  	//background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+  	//background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.fontNav
+{
+	margin-top: 0.5%;
+	font-family: cambria;
+}
+
+.b1
+{
+	max-width: 80%;
+	font-size: 90%;
+}
+
+.fontLink
+{
+	float: right;
+	color: white;
+	text-decoration: none;
+	padding-right: 5px;
+}
+
+.fontLink:hover {
+	text-decoration: underline;
+}
+
+.sentence
+{
+	//Text Properties
+  	font-size: 1.1em;
+  	justify-content: center;
+  	display: flex;
+  	color: white;
+  	margin-top: 1.5%;
+  	width: 100%;
+}
+.stn
+{
+	width: 10%;
+	text-align: right;
+}
+
+.sentence1 
+{
+	width: 90%;
+	height: auto;
+	color: white;
+	font-size: 1em;
+	text-align: center;
+}
+
+.preAudio
+{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 1%;
+	width: 40%;
+}
+
+.waveform
+{
+	width: 100%;
+}
+
+.showTimeline
+{
+	width: 100%;
+}
+.waveform-text
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+/*
+.textOpt
+{
+	width: 100%;
+	height: 160px;
+	background-color: white;
+	float: left;
+	//margin-right: 1%;
+	border: 2px solid green;
+	border-radius: 5px;
+}
+*/
+
+.nextText, .nextText1
+{
+	display: table;
+	width: 100%;
+	float: left;
+	/*margin-left: 1%;
+	margin-right: 1%;
+	margin-top: 5%;
+	margin-bottom: 5%;*/
+	text-align: center;
+	font-size: 90%;
+}
+
+.prevText, .prevText1
+{
+	display: table;
+	width: 100%;
+	float: left;
+	margin-bottom: 1%;
+/*	margin-left: 1%;
+	margin-right: 1%;
+	margin-top: 5%;
+	margin-bottom: 5%;*/
+	text-align: center;
+
+}
+
+.stLabel
+{
+	margin-left: 5%;
+	margin-right: 5%;
+	font-size: 90%;
+}
+
+.stNum
+{
+	max-width: 50%;
+	align-items: center;
+}
+
+.get-sentence-btn
+{
+	margin-left: 1%;
+}
+.accessCamera
+{
+	text-align: center;
+	width: 100%;
+}
+.head4
+{
+	text-align: center;
+	width: 100%;
+}
+
+.demoCamera
+{
+	//width: 33.33%;
+	width: 100%;
+	float: left;
+}
+.accessCamera1
+{
+	text-align: center;
+	align-items: center;
+	//width: 33.33%;
+	width: 100%;
+	float: left;
+}
+.conCamera
+{
+	//width: 33.33%;
+	width: 100%;
+	float: left;
+}
+
+.demoStream
+{
+	//background-color: #666;
+	width: 90%;
+}
+.videoStream
+{
+	//background-color: #666;
+	width: 90%;
+}
+.conStream
+{
+	//background-color: #666;
+	width: 90%;
+}
+
+.displayVideo
+{
+	height: auto;
+	width: 100%;
+}
+
+.vidSave
+{
+	width: 50%;
+	background-color: #666;
+}
+
+.copyright
+{
+	width: 100%;
+}
+
+/*Icon Properties*/
+
+#start
+{
+	font-size:24px;
+	color: green;
+}
+
+#start:hover
+{
+	color: #4682B4; //SteelBlue
+}
+
+#stop
+{
+	font-size: 24px;
+	color: red;
+} 
+
+#stop:hover
+{
+	color: #4682B4;
+}
